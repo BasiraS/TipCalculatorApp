@@ -15,6 +15,8 @@ User can enter a bill amount, choose a tip percentage, and see the tip and total
 
 Here's a walkthrough of implemented user stories:
 
+<img src='http://g.recordit.co/P0vRnNyS2p.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
 GIF created with [recordIt](http://g.recordit.co/P0vRnNyS2p.gif).
 
 ## Notes

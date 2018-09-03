@@ -17,7 +17,7 @@ Here's a walkthrough of implemented user stories:
 
 <img src='http://g.recordit.co/P0vRnNyS2p.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-GIF created with [recordIt](http://g.recordit.co/P0vRnNyS2p.gif).
+GIF created with [recordIt](http://recordit.co/)
 
 ## Notes
 A challenge that I have encountered while building the app is aligning everything in the screen.
